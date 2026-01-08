@@ -1,0 +1,7 @@
+Type,Company,InvestmentCost,CapitalCost,UpdatedCost,Currency
+Asset,Startup Tech Alpha,100000.00,5.5,105500.00,USD
+Asset,Startup Fintech Beta,50000.00,8.2,54100.00,USD
+Asset,Real Estate Fund ABC,200000.00,12.5,225000.00,BRL
+Asset,Private Equity XYZ,150000.00,6.8,160200.00,USD
+Liability,Prior Management Fund,80000.00,4.2,83360.00,USD
+Liability,Legacy Investment Vehicle,120000.00,3.5,124200.00,BRL

@@ -1,0 +1,10 @@
+Date,Description,Value,Balance
+2024-01-01,Saldo anterior,0.00,25000.00
+2024-01-03,Transferência recebida,2000.00,27000.00
+2024-01-08,Pagamento fatura cartão,-2500.00,24500.00
+2024-01-12,PIX enviado,-500.00,24000.00
+2024-01-15,Salário recebido,12000.00,36000.00
+2024-01-20,Resgate investimento LCI,8000.00,44000.00
+2024-01-22,Mercado Extra,-320.00,43680.00
+2024-01-25,Netflix assinatura,-55.90,43624.10
+2024-01-28,Spotify Premium,-21.90,43602.20

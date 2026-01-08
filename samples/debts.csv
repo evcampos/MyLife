@@ -1,0 +1,5 @@
+Creditor,InterestRate,AmountPaid,Currency
+Banco Itau Financiamento,2.5,150000.00,BRL
+Banco Santander Emprestimo,3.2,80000.00,BRL
+Credito Privado Pessoa Fisica,1.8,50000.00,BRL
+Bank of America Line of Credit,4.5,100000.00,USD
